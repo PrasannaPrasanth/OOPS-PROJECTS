@@ -1,0 +1,5 @@
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\vending_5star\vending_5star\bin\Debug\vending_5star.dll
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\vending_5star\vending_5star\bin\Debug\vending_5star.pdb
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\vending_5star\vending_5star\obj\Debug\vending_5star.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\vending_5star\vending_5star\obj\Debug\vending_5star.dll
+C:\Users\ELCOT\Desktop\GitDemo\SampleV1\vending_5star\vending_5star\obj\Debug\vending_5star.pdb
